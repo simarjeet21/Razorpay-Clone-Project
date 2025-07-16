@@ -1,3 +1,7 @@
+# Razorpay Clone
+
+[![Demo](./demo.png)](./demo.mp4)
+
 A fully responsive and pixel-perfect clone of the Razorpay website, built using **HTML**, **Tailwind CSS**, and **JavaScript**.
 
 ## 🚀 Features
